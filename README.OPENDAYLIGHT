@@ -1,4 +1,4 @@
-DIRECTORY ORGANIZATION
+DIRECTORY ORGANIZATION hello
 ======================
 - third-party: contains all the third-party artifacts than needed
 repackaging or needed code modifications.
